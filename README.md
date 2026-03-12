@@ -45,9 +45,7 @@ Pastikan untuk membaca ini agar mod dapat berjalan dengan lancar:
 ---
 
 ## 📋 Rencana Kedepannya (To-Do List)
-Karena mod ini belum sepenuhnya selesai. Kami masih berada pada garis awal kami, dan ini adalah hal-hal yang sedang kami kerjakan hingga update besar selanjutnya (v0.2.0):
-- [ ] Menyelesaikan translasi dan lokalisasi pada menu in-game | Tahap I
-- [ ] Menyesuaikan serta lokalisasi pada tiap misi             | Tahap I
+- [x] Proyek dihentikan.
 
 ---
 
