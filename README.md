@@ -32,7 +32,6 @@ Selagi menanti peresmian bahasa Indonesia secara resmi, kami menawarkan alternat
 ---
 
 ## 📥 Cara Instalasi
-
 Pastikan untuk membaca ini agar mod dapat berjalan dengan lancar:
 
 1. Unduh dan install [SMAPI](https://smapi.io/) (Sangat disarankan untuk versi terbaru).
@@ -45,7 +44,9 @@ Pastikan untuk membaca ini agar mod dapat berjalan dengan lancar:
 ---
 
 ## 📋 Rencana Kedepannya (To-Do List)
-- [x] Proyek dihentikan.
+Meskipun proyek ini dihentikan, berikut adalah visi awal yang ingin dicapai:
+- [x] Scene Permulaan (Kisah Kakek & Pertemuan di Bus)
+- [ ] Translasi & Lokalisasi Dialog Misi
 
 ---
 
