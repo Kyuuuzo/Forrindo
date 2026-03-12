@@ -4,8 +4,8 @@
 [![SMAPI Required](https://img.shields.io/badge/SMAPI-Required-green.svg)](https://smapi.io/)
 [![Content Patcher](https://img.shields.io/badge/Content_Patcher-Required-blue.svg)](https://www.nexusmods.com/stardewvalley/mods/1915)
 
-## ⚠️ PERINGATAN: VERSI ALPHA
-> Mod ini masih dalam tahap **Alpha** (pengembangan awal). Kalian mungkin akan menemukan beberapa bug, teks yang belum diterjemahkan, atau fitur yang belum sempurna. Bantuan akan sangat berarti! Silakan laporkan jika menemukan error, memiliki saran kalimat yang lebih puitis, atau masukan lainnya melalui tab **Issues** di atas.
+## ⚠️ PERINGATAN: PROYEK DIHENTIKAN
+> Status Proyek: Ditangguhkan (Suspended). Karena adanya kendala internal dan teknis yang menghambat progres, pengembangan proyek ini terpaksa dihentikan untuk sementara waktu. Kami memohon maaf atas ketidaknyamanan yang ditimbulkan.
 
 ---
 
